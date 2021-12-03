@@ -1,7 +1,10 @@
-" -----------------  Author: Ruchee
+" -----------------  Author: Ruchee   
 " -----------------   Email: my@ruchee.com
 " -----------------    Date: 2021-11-13 13:46:28
 " -----------------   https://github.com/ruchee/vimrc
+
+
+"Est ce que possible d'avoir les commentaires de vimrc en english ou frensh. Merci 
 
 
 " ---------- Ctrl 系按键 ----------
